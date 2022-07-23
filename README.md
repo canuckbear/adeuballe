@@ -1,2 +1,2 @@
 # adeuballe
-Language learning assistant to acquire som basics
+Language learning assistant to acquire some basics
